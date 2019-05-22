@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "Music Bot",
+    "builds": [
+        { "src": "index.js", "use": "@now/node" }
+    ]
+
+}
