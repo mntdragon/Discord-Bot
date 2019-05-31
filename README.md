@@ -1,5 +1,8 @@
 # Discord-Bot
+This hobbie project is still a Work In Progress and is not a finished product.
+
 A Discord Bot can do many commands:\
+----------------------------
 - Help - show all commands with description\
 - Ban - Ban member\
 - Play - play Youtube music/ if music currently playing, add song in queue\
