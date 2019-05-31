@@ -1,14 +1,14 @@
 # Discord-Bot
 A Discord Bot can do many commands:\
-***Help - show all commands with description\
-***Ban - Ban member\
-***Play - play Youtube music/ if music currently playing, add song in queue\
-***Stop - stop music\
-***Pause \
-***Purge - wipe out number of messages\
-***DailyHoroscope - get the daily horoscope using horoscope web API\
-***Weather - get the weather status with your city name or zip code (available in Finland only, if you want to change to worldwide or specific country, edit the url)\
-***Fortune - get fortune cookie quotes
+- Help - show all commands with description\
+- Ban - Ban member\
+- Play - play Youtube music/ if music currently playing, add song in queue\
+- Stop - stop music\
+- Pause \
+- Purge - wipe out number of messages\
+- DailyHoroscope - get the daily horoscope using horoscope web API\
+- Weather - get the weather status with your city name or zip code (available in Finland only, if you want to change to worldwide or specific country, edit the url)\
+- Fortune - get fortune cookie quotes
 ...
 ...
 
