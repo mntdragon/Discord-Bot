@@ -1,7 +1,7 @@
 # Discord-Bot
 This hobbie project is still a Work In Progress and is not a finished product.
 
-A Discord Bot can do many commands:\
+Commands
 ----------------------------
 - Help - show all commands with description
 - Ban - Ban member
@@ -14,6 +14,12 @@ A Discord Bot can do many commands:\
 - Fortune - get fortune cookie quotes
 ...
 ...
+
+Commands
+----------------------------
+guildMemberAdd
+guildMemberRemove
+ready
 
 ### Server Discord:  https://discord.gg/4PJvzeM :relaxed: feel free to experience
 :heavy_exclamation_mark: Moo assistant - The bot running through Repl, at the moment Repl has not supported FFmpeg package yet, kindly run node index.js on computer to use Music functions
