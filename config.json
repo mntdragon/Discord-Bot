@@ -1,4 +1,6 @@
 {
     "prefix": "!",
-    "token": "YOUR-BOT-TOKEN"
+    "token": "YOUR-BOT-TOKEN",
+    "WEATHER_API": "",
+    "youtubeAPI": ""
     }
