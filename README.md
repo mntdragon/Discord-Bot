@@ -19,4 +19,4 @@ A Discord Bot can do many commands:\
 :heavy_exclamation_mark: Moo assistant - The bot running through Repl, at the moment Repl has not supported FFmpeg package yet, kindly run node index.js on computer to use Music functions
 
 
-:heavy_exclamation_mark: Bot run Heroku: music commands available, move tokens to the .env files instead config.json
+:heavy_exclamation_mark: Bot run Heroku: music commands available, move tokens to the Config Vars instead config.json
