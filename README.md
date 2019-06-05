@@ -15,7 +15,7 @@ Commands
 ...
 ...
 
-Commands
+Events
 ----------------------------
 - guildMemberAdd
 - guildMemberRemove
